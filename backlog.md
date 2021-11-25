@@ -58,7 +58,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/the-caretaker/an-empty-bliss-beyond-this-world/)
 - [youtube](https://www.youtube.com/watch?v=LL998ajnjN4)
 
-## Scenery - 福居良 [Ryo Fukui]
+## ~~Scenery - 福居良 (Ryo Fukui)~~
 - [RYM](https://rateyourmusic.com/release/album/%E7%A6%8F%E5%B1%85%E8%89%AF/scenery/)
 - [spotify](https://open.spotify.com/album/5Uny0mkKiVGDat7H6SNDyS?si=O055dOQqQtWGgOmsvHdfhw)
 
@@ -129,6 +129,14 @@ via PR just keep the format uniform. :)
 ## OK Computer - Radiohead
 - [RYM](https://rateyourmusic.com/release/album/radiohead/ok-computer/)
 - [spotify](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=5kUR8u5FSeCvGwb6JBD8ew)
+
+## Hell Hath No Fury - Clipse
+- [RYM](https://rateyourmusic.com/release/album/clipse/hell-hath-no-fury/)
+- [spotify](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE?si=pgxFuuFGTFuM47dafZgL4Q)
+
+## Kakashi - 清水靖晃 (Yasuaki Shimizu)
+- [RYM](https://rateyourmusic.com/release/album/%E6%B8%85%E6%B0%B4%E9%9D%96%E6%99%83/kakashi/)
+- [spotify](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb?si=lfSPHi8tQ-SX5MgE-5eyQA)
 
 ## Album - Artist
 - [RYM](RYMLink)
