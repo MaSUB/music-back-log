@@ -26,9 +26,9 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/neutral-milk-hotel/in-the-aeroplane-over-the-sea/)
 - [spotify](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?si=L4hi4NIFTzaQI7ZlHLFMxw)
 
-## Disintegration - The Cure
+##~~Disintegration - The Cure~~
 - [RYM](https://rateyourmusic.com/release/album/the-cure/disintegration/)
-- [spotify](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg?si=vX9aGTRBQK2Me7cfY7-XoQ)
+- [spotify](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl?si=oGyOO03vSDuc-sWC-8teqw)
 
 ## Unknown Pleasures - Joy Division
 - [RYM](https://rateyourmusic.com/release/album/joy-division/unknown-pleasures/)
@@ -65,6 +65,26 @@ via PR just keep the format uniform. :)
 ## Monk's Dream - The Thelonious Monk Quartet
 - [RYM](https://rateyourmusic.com/release/album/the-thelonious-monk-quartet/monks-dream/)
 - [spotify](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL?si=SRWY5xv_QNeAHYSA7OiHHQ)
+
+## Elvis Is Back! - Elvis Presley
+- [RYM](https://rateyourmusic.com/release/album/elvis-presley/elvis-is-back/)
+- [spotify](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1?si=zPeDKsgcQBms4aYwpaBk_w)
+
+## The Doors - The Doors
+- [RYM](https://rateyourmusic.com/release/album/the-doors/the-doors-21/)
+- [spotify](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn?si=FzF3iwQ4QVW4fQjO00Xe6w)
+
+## Tallahassee - The Mountain Goats
+- [RYM](https://rateyourmusic.com/release/album/the-mountain-goats/tallahassee/)
+- [spotify](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX?si=KA0_iSCtRJuBVSllUGFr6Q)
+
+## ATLiens - OutKast
+- [RYM](https://rateyourmusic.com/release/album/outkast/atliens/)
+- [spotify](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0?si=iIoK7LmaSw22HU2yFRkxxg)
+
+## Jack Takes the Floor - Ramblin' Jack Elliott
+- [RYM](https://rateyourmusic.com/release/album/ramblin-jack-elliott/jack-takes-the-floor/)
+- [spotify](https://open.spotify.com/album/1oZw4qudz6LEnJ5IAIFy8u?si=0GVw_t0uRviYxRjdJA1j6g)
 
 ## Album - Artist
 - [RYM](RYMLink)
