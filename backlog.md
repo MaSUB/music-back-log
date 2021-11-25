@@ -26,7 +26,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/neutral-milk-hotel/in-the-aeroplane-over-the-sea/)
 - [spotify](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob?si=L4hi4NIFTzaQI7ZlHLFMxw)
 
-##~~Disintegration - The Cure~~
+## ~~Disintegration - The Cure~~
 - [RYM](https://rateyourmusic.com/release/album/the-cure/disintegration/)
 - [spotify](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl?si=oGyOO03vSDuc-sWC-8teqw)
 
