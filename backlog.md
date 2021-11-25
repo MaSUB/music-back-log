@@ -138,6 +138,10 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/%E6%B8%85%E6%B0%B4%E9%9D%96%E6%99%83/kakashi/)
 - [spotify](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb?si=lfSPHi8tQ-SX5MgE-5eyQA)
 
+## Lost Horizons - Lemon Jelly
+- [RYM](https://rateyourmusic.com/release/album/lemon-jelly/lost-horizons/)
+- [spotify](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG?si=JffFFRfPTHqlV5AnIcX-yw)
+
 ## Album - Artist
 - [RYM](RYMLink)
 - [spotify](spotifyLink)
