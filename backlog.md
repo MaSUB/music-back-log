@@ -6,7 +6,7 @@ This is a place to keep track of what albums I want to listen to and rate in the
 albums a week so this list might get long and split into separate lists. You can add some albums in here if you'd like
 via PR just keep the format uniform. :)
 
-## In the Court of the Crimson King - King Crimson
+## ~~In the Court of the Crimson King - King Crimson~~
 - [RYM](https://rateyourmusic.com/release/album/king-crimson/in-the-court-of-the-crimson-king/)
 - [spotify](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M?si=IVAxSNHBRDOkJYD2GqelYg)
 
@@ -85,6 +85,50 @@ via PR just keep the format uniform. :)
 ## Jack Takes the Floor - Ramblin' Jack Elliott
 - [RYM](https://rateyourmusic.com/release/album/ramblin-jack-elliott/jack-takes-the-floor/)
 - [spotify](https://open.spotify.com/album/1oZw4qudz6LEnJ5IAIFy8u?si=0GVw_t0uRviYxRjdJA1j6g)
+
+## Autobahn - Kraftwerk
+- [RYM](https://rateyourmusic.com/release/album/kraftwerk/autobahn/)
+- [spotify](https://open.spotify.com/album/0DzC0tyowMi2O9QfkDRvfJ?si=uXSxkGOdSlCN_9rXyfeYHg)
+
+## Winter In America - Gil Scott-Heron & Brian Jackson
+- [RYM](https://rateyourmusic.com/artist/gil_scott_heron_and_brian_jackson)
+- [youtube](https://www.youtube.com/watch?v=WnkDjMDD3JQ)
+
+## Wild Is the Wind - Nina Simone
+- [RYM](https://rateyourmusic.com/release/album/nina-simone/wild-is-the-wind/)
+- [spotify](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr?si=Ec8TcApUS2eyyZuT93QtcQ)
+
+## The Sounds of India - Ravi Shankar
+- [RYM](https://rateyourmusic.com/release/album/ravi-shankar/the-sounds-of-india/)
+- [spotify](https://open.spotify.com/album/4aSIyoC7BdDebquu0WgcFK?si=yG_BotxaQ56wcdyPbTJF1g)
+
+## At Folsom Prison - Johnny Cash
+- [RYM](https://rateyourmusic.com/release/album/johnny-cash/at-folsom-prison/)
+- [spotify](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh?si=bU_L7U66TiKkmIbezfTjlQ)
+
+## Lady Soul - Aretha Franklin
+- [RYM](https://rateyourmusic.com/release/album/aretha-franklin/lady-soul/)
+- [spotify](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG?si=r7dFDXkmTa6l5NrdipB-Vw)
+
+## Bayou Country - Creedence Clearwater Revival
+- [RYM](https://rateyourmusic.com/release/album/creedence_clearwater_revival/bayou_country/)
+- [spotify](https://open.spotify.com/album/7F76o5x7W6dgfmgcVDeBH0?si=cRQjxT-uT5GW-9WCry17Pg)
+
+## Brown Sugar - D'Angelo
+- [RYM](https://rateyourmusic.com/release/album/dangelo/brown-sugar/)
+- [spotify](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4?si=jJsbxO8DSsqpr4bcnjQ6lw)
+
+## My Beautiful Dark Twisted Fantasy - Kanye West (re-listen to rate)
+- [RYM](https://rateyourmusic.com/release/album/kanye-west/my-beautiful-dark-twisted-fantasy/)
+- [spotify](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv?si=DPyy_UBTQmq9bBC-uJDf1A)
+
+## The Blueprint - Jay-Z
+- [RYM](https://rateyourmusic.com/release/album/jay-z/the-blueprint/)
+- [spotify](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl?si=5FwSwq9tTcWBWGlbdxcsMQ)
+
+## OK Computer - Radiohead
+- [RYM](https://rateyourmusic.com/release/album/radiohead/ok-computer/)
+- [spotify](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=5kUR8u5FSeCvGwb6JBD8ew)
 
 ## Album - Artist
 - [RYM](RYMLink)
