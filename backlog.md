@@ -54,7 +54,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/ecco2k/e/)
 - [spotify](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb?si=dwUIBmfoQi29-zAgRDZvGg)
 
-## An Empty Bliss Beyond This World - The Caretaker
+## ~~An Empty Bliss Beyond This World - The Caretaker~~
 - [RYM](https://rateyourmusic.com/release/album/the-caretaker/an-empty-bliss-beyond-this-world/)
 - [youtube](https://www.youtube.com/watch?v=LL998ajnjN4)
 
@@ -141,6 +141,18 @@ via PR just keep the format uniform. :)
 ## Lost Horizons - Lemon Jelly
 - [RYM](https://rateyourmusic.com/release/album/lemon-jelly/lost-horizons/)
 - [spotify](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG?si=JffFFRfPTHqlV5AnIcX-yw)
+
+## The Chronic - Dr. Dre
+- [RYM](https://rateyourmusic.com/release/album/dr-dre/the-chronic/)
+- [spotify](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH?si=aMrw3ZGUT9uPJyz47GDVIQ)
+
+## Aim and Ignite - fun
+- [RYM](https://rateyourmusic.com/release/album/fun/aim-and-ignite/)
+- [spotify](https://open.spotify.com/album/68Q6uG6exOAUqF4Q7aNUEY?si=5FZwKvFcQz-GHTeEdGLmJA)
+
+## Long Season - Fishmans
+- [RYM](https://rateyourmusic.com/release/album/fishmans/long-season/)
+- [spotify](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ?si=NnbeI-XjTC2JBQ2Hb2GjCA)
 
 ## Album - Artist
 - [RYM](RYMLink)
