@@ -130,7 +130,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/radiohead/ok-computer/)
 - [spotify](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=5kUR8u5FSeCvGwb6JBD8ew)
 
-## Hell Hath No Fury - Clipse
+## ~~Hell Hath No Fury - Clipse~~
 - [RYM](https://rateyourmusic.com/release/album/clipse/hell-hath-no-fury/)
 - [spotify](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE?si=pgxFuuFGTFuM47dafZgL4Q)
 
@@ -153,6 +153,22 @@ via PR just keep the format uniform. :)
 ## Long Season - Fishmans
 - [RYM](https://rateyourmusic.com/release/album/fishmans/long-season/)
 - [spotify](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ?si=NnbeI-XjTC2JBQ2Hb2GjCA)
+
+## Space 1.8 - Nala Sinephro
+- [RYM](https://rateyourmusic.com/release/album/nala-sinephro/space-1_8/)
+- [spotify](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm?si=QDYbd7DPTLC5haKDuyt3XQ)
+
+## Afrique Victime - Mdou Moctar
+- [RYM](https://rateyourmusic.com/release/album/mdou-moctar/afrique-victime/)
+- [spotify](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2?si=BGObrHIoS1G2XoniAf5eIg)
+
+## Stand for Myself - Yola
+- [RYM](https://rateyourmusic.com/release/album/yola/stand-for-myself/)
+- [spotify](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV?si=-vozyqTvSrG8F3_HrYDE2Q)
+
+## Sinner Get Ready - Lingua Ignota
+- [RYM](https://rateyourmusic.com/release/album/lingua-ignota/sinner-get-ready/)
+- [spotify](https://open.spotify.com/album/06wtf2TCkmyTgS1yZGiSr5?si=oFbFCbSjQZWhlQkk1ULpcQ)
 
 ## Album - Artist
 - [RYM](RYMLink)
