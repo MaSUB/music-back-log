@@ -50,7 +50,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/aesop-rock-x-blockhead/garbology/)
 - [spotify](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz?si=Qfc7jQknTUycrXXtfd0YeA)
 
-## E - Ecco2K
+## ~~E - Ecco2K~~
 - [RYM](https://rateyourmusic.com/release/album/ecco2k/e/)
 - [spotify](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb?si=dwUIBmfoQi29-zAgRDZvGg)
 
