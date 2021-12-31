@@ -30,7 +30,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/the-cure/disintegration/)
 - [spotify](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl?si=oGyOO03vSDuc-sWC-8teqw)
 
-## Unknown Pleasures - Joy Division
+## ~~Unknown Pleasures - Joy Division~~
 - [RYM](https://rateyourmusic.com/release/album/joy-division/unknown-pleasures/)
 - [spotify](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy?si=IoGfC5JcRYubSKYp9k8ehQ)
 
@@ -46,7 +46,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/charley-crockett/welcome-to-hard-times/)
 - [spotify](https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj?si=Ms12liSIRuKUSax9MVOO8w)
 
-## Garbology - 	Aesop Rock x Blockhead
+## ~~Garbology - 	Aesop Rock x Blockhead~~
 - [RYM](https://rateyourmusic.com/release/album/aesop-rock-x-blockhead/garbology/)
 - [spotify](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz?si=Qfc7jQknTUycrXXtfd0YeA)
 
@@ -114,7 +114,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/creedence_clearwater_revival/bayou_country/)
 - [spotify](https://open.spotify.com/album/7F76o5x7W6dgfmgcVDeBH0?si=cRQjxT-uT5GW-9WCry17Pg)
 
-## Brown Sugar - D'Angelo
+## ~~Brown Sugar - D'Angelo~~
 - [RYM](https://rateyourmusic.com/release/album/dangelo/brown-sugar/)
 - [spotify](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4?si=jJsbxO8DSsqpr4bcnjQ6lw)
 
