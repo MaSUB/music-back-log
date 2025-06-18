@@ -18,7 +18,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/david-bowie/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars/)
 - [spotify](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56?si=EhapfSD8Q0WETRBSBjfwIQ)
 
-## Madvillainy - Madvillain
+## ~~Madvillainy - Madvillain~~
 - [RYM](https://rateyourmusic.com/release/album/madvillain/madvillainy/)
 - [spotify](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk?si=dcZjOvW3SNaoJRDvjYepNw)
 
@@ -78,7 +78,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/the-mountain-goats/tallahassee/)
 - [spotify](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX?si=KA0_iSCtRJuBVSllUGFr6Q)
 
-## ATLiens - OutKast
+## ~~ATLiens - OutKast~~
 - [RYM](https://rateyourmusic.com/release/album/outkast/atliens/)
 - [spotify](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0?si=iIoK7LmaSw22HU2yFRkxxg)
 
@@ -102,7 +102,7 @@ via PR just keep the format uniform. :)
 - [RYM](https://rateyourmusic.com/release/album/ravi-shankar/the-sounds-of-india/)
 - [spotify](https://open.spotify.com/album/4aSIyoC7BdDebquu0WgcFK?si=yG_BotxaQ56wcdyPbTJF1g)
 
-## At Folsom Prison - Johnny Cash
+## ~~At Folsom Prison - Johnny Cash~~
 - [RYM](https://rateyourmusic.com/release/album/johnny-cash/at-folsom-prison/)
 - [spotify](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh?si=bU_L7U66TiKkmIbezfTjlQ)
 
